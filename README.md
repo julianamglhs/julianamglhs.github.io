@@ -1,2 +1,2 @@
 # julianamglhs.github.io
-Portifólio Web
+Contrução do meu portfólio web a partir das aulas da Trybe.

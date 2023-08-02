@@ -1,0 +1,41 @@
+h1, p{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: antiquewhite;
+    padding: 3%;
+}
+strong{
+    color: blueviolet;
+}
+
+#fotoperfil {
+    float: left;
+    max-height: 280px;
+    width: auto;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+.meunome {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.sobre {
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ position: absolute;
+ top: 36%;
+ right: 8%;
+
+}
+
+/* div {
+    border: 2px solid green;
+} */
+
